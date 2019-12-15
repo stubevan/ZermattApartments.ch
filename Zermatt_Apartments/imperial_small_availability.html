@@ -69,12 +69,12 @@
               <div class="graphic_textbox_layout_style_default">
                 <p style="padding-bottom: 0pt; padding-top: 0pt; " class="paragraph_style_2"><a
                     class="class1"
-                    href="http://www.zermattapartments.ch/Zermatt_Apartments/home.html"
-                    title="http://www.zermattapartments.ch/Zermatt_Apartments/home.html">home</a>    
-                  <a class="class2" href="http://www.zermattapartments.ch/Zermatt_Apartments/map.html"
-                    title="http://www.zermattapartments.ch/Zermatt_Apartments/map.html">map</a>    
-                  <a class="class3" href="http://www.zermattapartments.ch/Zermatt_Apartments/contact.html"
-                    title="http://www.zermattapartments.ch/Zermatt_Apartments/contact.html">contact</a></p>
+                    href="home.html"
+                    title="home.html">home</a>    
+                  <a class="class2" href="map.html"
+                    title="map.html">map</a>    
+                  <a class="class3" href="contact.html"
+                    title="contact.html">contact</a></p>
               </div>
             </div>
           </div>
@@ -159,76 +159,6 @@ new Paste('widget0', 'Scripts/Widgets/HTMLRegion', 'Scripts/Widgets/SharedResour
         </div>
       </div>
     </div>
-    <script>
-
- var modalWin = new CreateModalPopUpObject();
- modalWin.SetLoadingImagePath("images/loading.gif");
- modalWin.SetCloseButtonImagePath("images/remove.gif");
- //Uncomment below line to make look buttons as link
- //modalWin.SetButtonStyle("background:none;border:none;textDecoration:underline;cursor:pointer");
-
-function ShowNewPage(){
- var callbackFunctionArray = new Array(EnrollNow, EnrollLater);
- modalWin.ShowURL('http://www.ownersdirect.co.uk/haow/widgets/calendar.html?propertyId=8157275&unitId=3451946&monthCount=12&orientation=full&site=odhr',700,1024,'Availability',null,callbackFunctionArray);
- }
- 
- function ShowNewPagea(){
- var callbackFunctionArray = new Array(EnrollNow, EnrollLater);
- modalWin.ShowURL('http://zermattapartments.ch/Zermatt_Apartments/review_gornerwald.html',700,1024,'Review',null,callbackFunctionArray);
- }
- 
- 
-function ShowMessage() {
- modalWin.ShowMessage('This Modal Popup Window using Javascript',200,400,'User Information');
- }
-  
- function  ShowMessageWithAction(){
-    //ShowConfirmationMessage(message, height, width, title,onCloseCallBack, firstButtonText, onFirstButtonClick, secondButtonText, onSecondButtonClick);
-    modalWin.ShowConfirmationMessage('This is confirmation window using Javascript',200,400,'User Confirmation',null,'Agree',Action1,'Disagree',Action2);
- }
-
-function ShowMessageNoDragging(){
- modalWin.Draggable=false;
- modalWin.ShowMessage('You can not drag this window',200,400,'User Information');
-
-}
-
-function Action1(){
-alert('Action1 is excuted');
-modalWin.HideModalPopUp();
-}
-
-function Action2(){
-alert('Action2 is excuted');
-modalWin.HideModalPopUp();
-}
-
-function EnrollNow(msg){
-modalWin.HideModalPopUp();
-modalWin.ShowMessage(msg,200,400,'User Information',null,null);
-}
-
-function EnrollLater(){
-modalWin.HideModalPopUp();
-modalWin.ShowMessage(msg,200,400,'User Information',null,null);
-}
-
-function HideModalWindow() {
-    modalWin.HideModalPopUp();
-}
-
-function ShowChildWindowValues(name,email,address,phone,zip) {
-    var displayString = "<b>Values Of Child Window</b> <br><br>Name : " + name;
-    displayString += "<br><br>Email : " + email;
-    displayString += "<br><br>Address : " + address;
-    displayString += "<br><br>Phone : " + phone;
-    displayString += "<br><br>Zip : " + zip;
-    var div = document.getElementById("divShowChildWindowValues");
-    div.style.display = "";
-    div.innerHTML = displayString;
-}
-
- </script>
   </body>
 </html>
 
