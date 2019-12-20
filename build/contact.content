@@ -1,0 +1,19 @@
+!!!!HEADER_TEXT!!!!=Perfekte Lage, einfache Eleganz, inspirierende Aussicht
+!!!!BASE_POSITION!!!!=590
+!!!!BOX_HEIGHT!!!!=650
+
+!!!!CONTENT!!!!
+          <div style="height: 428px; width: 570px;  height: 428px; left: 180px; position: absolute; top: 20px; width: 570px; z-index: 1; " class="tinyText style_SkipStroke_3 stroke_0">
+            <img src="contact_files/matterhorn_contact_sp.jpg" alt="" style="border: none; height: 428px; width: 571px; " />
+          </div>
+
+
+          <div id="id4" style="height: 130px; left: 160px; position: absolute; top: 480px; width: 592px; z-index: 1; " class="style_SkipStroke_2 shape-with-text">
+
+
+                <p style="padding-top: 0pt; " class="paragraph_style_3">To reserve one of these Zermatt Apartments, please contact Ann at:<br /></p>
+                <p class="paragraph_style_3"><br /></p>
+				<p class="paragraph_style_3">Mobile: <span class="style_1"><a class="class4" href="tel:+41788209730">+41 (0)78 820 97 30</a></span><br /></p>
+                <p style="padding-bottom: 0pt; " class="paragraph_style_3">email: <a class="class4" href="mailto:ann@zermattapartments.ch" title="mailto:ann@zermattapartments.ch">ann@zermattapartments.ch</a></p>
+
+          </div>

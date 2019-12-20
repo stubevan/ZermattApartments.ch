@@ -1,0 +1,8 @@
+!!!!HEADER_TEXT!!!!=Emplacement parfait, élégance simple, panorama majestueux
+!!!!BASE_POSITION!!!!=380
+!!!!BOX_HEIGHT!!!!=450
+
+!!!!CONTENT!!!!
+          <div style="height: 338px; width: 752px;  height: 338px; left: 80px; position: absolute; top: 20px; width: 752px; z-index: 1; " class="tinyText style_SkipStroke_2 stroke_0">
+            <a href="map_files/zermattmap_med.png" title="map_files/zermattmap_med.png"><img src="map_files/zermattmap_sml.jpg" alt="" style="border: none; height: 339px; width: 752px; " /></a>
+          </div>

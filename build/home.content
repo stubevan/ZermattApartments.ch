@@ -1,0 +1,47 @@
+!!!!HEADER_TEXT!!!!=Perfect location, homely elegance, inspiring view
+!!!!BASE_POSITION!!!!=536
+!!!!BOX_HEIGHT!!!!=694
+
+!!!!CONTENT!!!!
+          <div style="height: 454px; width: 402px;  height: 454px; left: 20px; position: absolute; top: 14px; width: 402px; z-index: 1; " class="tinyText style_SkipStroke_3 stroke_0">
+            <img src="home_files/matterhorn_home_spcrop.jpg" alt="" style="border: none; height: 454px; width: 403px; " />
+          </div>
+
+        <div style="margin-left: 0px; position: relative; width: 900px; z-index: 5; " id="body_layer">
+          <div style="height: 0px; line-height: 0px; " class="bumper"> </div>
+          <div id="id4" style="height: 142px; left: 445px; position: absolute; top: 7px; width: 410px; z-index: 1; " class="style_SkipStroke_1 shape-with-text">
+            <div class="text-content graphic_textbox_layout_style_default_External_410_142" style="padding: 0px; ">
+              <div class="graphic_textbox_layout_style_default">
+                <p style="padding-top: 0pt; " class="paragraph_style_home_3">Since founding Zermattapartments.ch in 2001  I have chosen, decorated and equipped these 3  apartments as if I were going to stay or live in them myself. They are unbeatably located, both for lifts and the village, but quiet.  Perhaps most importantly, they all have south-facing balconies with wonderful  Matterhorn/village/mountain views,  The interiors are cosy and welcoming, equipped with everything for a perfect holiday.
+<br /></p>
+                <p style="padding-bottom: 0pt; " class="paragraph_style_home_4">Have a great time in Zermatt, wherever you stay! Ann</p>
+              </div>
+            </div>
+          </div>
+
+
+          <div id="id6" style="height: 125px; left: 445px; position: absolute; top: 310px; width: 421px; z-index: 1; " class="style_SkipStroke_1 shape-with-text">
+            <div class="text-content graphic_textbox_layout_style_default_External_421_125" style="padding: 0px; ">
+              <div class="graphic_textbox_layout_style_default">
+                <p style="padding-top: 0pt; " class="paragraph_style_home_3">Depuis la création de Zermattapartments.ch en 2001, j’ai choisi, décoré et équipé ces 3 appartements comme si j’allais vivre ou y habiter moi-même. Ils sont idéalement situés, à la fois pour les remontées mécaniques et le village, mais au calme.  
+ 
+Peut-être plus important encore, ils possèdent tous un balcon orienté au sud offrant une vue magnifique sur le Cervin, le village et la montagne. L'intérieur est chaleureux et accueillant et est pourvu de tout pour des vacances parfaites.<br /></p>
+                <p style="padding-bottom: 0pt; " class="paragraph_style_home_4">Où que vous séjourniez, amusez-vous bien à Zermatt !  Ann</p>
+              </div>
+            </div>
+          </div>
+          
+          <div id="id7" style="height: 175px; left: 445px; position: absolute; top: 142px; width: 421px; z-index: 1; " class="style_SkipStroke_1 shape-with-text">
+            <div class="text-content graphic_textbox_layout_style_default_External_421_175" style="padding: 0px; ">
+              <div class="graphic_textbox_layout_style_default">
+                <p style="padding-top: 0pt; " class="paragraph_style_home_3">Seit der Gründung von Zermattapartments.ch im Jahr 2001 habe ich diese 3 Wohnungen so ausgewählt, dekoriert und ausgestattet, als ob ich selbst darin wohnen oder wohnen würde. Sie sind unschlagbar gelegen, sowohl für Aufzüge als auch für das Dorf, aber ruhig. Vielleicht noch wichtiger ist, dass alle über einen Südbalkon mit herrlichem Blick auf das Matterhorn, das Dorf und die Berge verfügen. Das Interieur ist warm und einladend und bietet alles für einen perfekten Urlaub.<br /></p>
+                <p style="padding-bottom: 0pt; " class="paragraph_style_home_4">Ich wünsche Ihnen eine schöne Zeit in Zermatt, egal, wo Sie sich aufhalten!  Ann</p>
+              </div>
+            </div>
+          </div>
+          
+          <div style="height: 94px; width: 122px;  height: 94px; left: 735px; position: absolute; top: 595px; width: 122px; z-index: 1; " class="tinyText style_SkipStroke_3 stroke_0">
+            <a href="https://www.zermatt.ch" title="https://www.zermatt.ch"><img src="home_files/zermatt.png" alt="" style="border: none; height: 94px; width: 122px; " /></a>
+          </div>
+
+

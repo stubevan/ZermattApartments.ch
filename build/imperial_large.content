@@ -1,0 +1,64 @@
+!!!!HEADER_TEXT!!!!=Emplacement parfait, élégance simple, panorama majestueux
+!!!!TITLE!!!!=Haus Imperial
+!!!!AVAILABILITY_POSITION!!!!=1050
+!!!!BASE_POSITION!!!!=1145
+!!!!BOX_HEIGHT!!!!=1215
+
+!!!!CONTENT!!!!
+        <div style="margin-left: 0px; position: relative; width: 900px; z-index: 5; " id="body_layer">
+          <div style="height: 0px; line-height: 0px; " class="bumper"> </div>
+          <div id="id4" style="height: 990px; left: 32px; position: absolute; top: 41px; width: 380px; z-index: 1; " class="style_SkipStroke_1 shape-with-text">
+            <div class="text-content graphic_textbox_layout_style_default_External_352_272" style="padding: 0px; ">
+              <div class="graphic_textbox_layout_style_default">
+					  <p style="padding-top: 0pt; font-size: 14px; " class="Body">Haus Imperial is in a quiet but very central location, less than a 5 minute walk from the railway station, the departure stations for Sunnegga and Gornergrat, and the ski bus to the Matterhorn Paradise departure station. The Bahnhostrasse which is the heart of the village and where you will find the best restaurants, bars and shops is just a 3 minute walk away. <br>
+
+					  3 ½ room non-smoking apartment with free wifi.  2 twin bedrooms (one with Matterhorn view), 2 bathrooms (one with bath/shower-over and one en suite with shower/WC), large living/dining room with stunning Matterhorn view, large south-facing balcony, separate sit-in kitchen with fridge, dishwasher, microwave, capsule coffee maker, everything you need to make fondue and raclette, and another large balcony.<br><br>
+
+					  Das Haus Imperial befindet sich in ruhiger, aber sehr zentraler Lage, weniger als 5 Gehminuten vom Bahnhof, den Abfahrtsstationen für Sunnegga und Gornergrat sowie dem Skibus zum Abfahrtsbahnhof Matterhorn Paradise entfernt. Die Bahnhostrasse, die das Herz des Dorfes bildet und in der Sie die besten Restaurants, Bars und Geschäfte finden, liegt nur 3 Gehminuten entfernt.<br>
+
+					  3 ½ Zimmer Nichtraucherwohnung mit kostenlosem WLAN. 2 Zweibettzimmer (eines mit Blick auf das Matterhorn), 2 Badezimmer (eines mit Badewanne / Dusche und eines mit Dusche / WC), großes Wohn- / Esszimmer mit herrlichem Blick auf das Matterhorn, großer Südbalkon, separate Küche (Esstisch)) mit Kühlschrank , Geschirrspüler, Mikrowelle, Kapselkaffeemaschine, was man zum Zubereiten von Fondu und Raclette benötigt sowie ein weiterer großer Balkon.<br><br>
+
+					  L'Haus Imperial est situé dans un endroit calme mais très central, à moins de 5 minutes à pied de la gare, des gares de départ pour Sunnegga et Gornergrat, ainsi que du ski-bus desservant la gare de départ Matterhorn Paradise. La Bahnhostrasse, qui est le coeur du village et où vous trouverez les meilleurs restaurants, bars et magasins, est à seulement 3 minutes à pied. <br>
+
+					  Appartement non-fumeur de 3½ pièces avec wifi gratuit. 2 chambres doubles (une avec vue sur le Cervin), 2 salles de bain (une avec baignoire / douche et l'autre en suite avec douche / WC), grand salon / salle à manger avec vue magnifique sur le Cervin, grand balcon orienté au sud, cuisine séparée (table à manger) avec réfrigérateur , lave-vaisselle, micro-ondes, cafetière à capsules, tout ce dont vous avez besoin pour préparer des fondu et raclettes, et un autre grand balcon. </p>
+              </div>
+            </div>
+          </div>
+          
+
+
+          <div style="height: 284px; width: 427px;  height: 284px; left: 435px; position: absolute; top: 47px; width: 427px; z-index: 1; " class="tinyText style_SkipStroke_3 stroke_3">
+            <a href="imperial_large_files/01-HausImperial-1200.jpg" title="imperial_large_files/imperial_living_1.jpg"><img src="imperial_large_files/01-HausImperial-800.jpg" alt="" style="border: none; height: 285px; width: 427px; " /></a>
+          </div>
+
+          <div style="height: 196px; width: 281px;  height: 196px; left: 435px; position: absolute; top: 346px; width: 281px; z-index: 1; " class="tinyText style_SkipStroke_4 stroke_7">
+            <a href="imperial_large_files/02-HausImperial-1200.jpg" title="imperial_large_files/imperial-large.png"><img src="imperial_large_files/02-HausImperial-800.jpg" alt="" style="border: none; height: 197px; width: 281px; " /></a>
+          </div>
+
+          <div style="height: 197px; width: 131px;  height: 197px; left: 731px; position: absolute; top: 345px; width: 131px; z-index: 1; " class="tinyText style_SkipStroke_3 stroke_4">
+            <a href="imperial_large_files/03-HausImperial-1200.jpg" title="imperial_large_files/imperial_matterhorn_1.jpg"><img src="imperial_large_files/03-HausImperial-800.jpg" alt="" style="border: none; height: 197px; width: 132px; " /></a>
+          </div>
+          
+          <div style="height: 150px; width: 100px;  height: 150px; left: 435px; position: absolute; top: 557px; width: 100px; z-index: 1; " class="tinyText style_SkipStroke_3 stroke_0">
+            <a href="imperial_large_files/04-HausImperial-1200.jpg" title="imperial_large_files/imperial_bath_1.jpg"><img src="imperial_large_files/04-HausImperial-800.jpg" alt="" style="border: none; height: 151px; width: 100px; " /></a>
+          </div>
+          
+          <div style="height: 150px; width: 100px;  height: 150px; left: 545px; position: absolute; top: 556px; width: 100px; z-index: 1; " class="tinyText style_SkipStroke_3 stroke_5">
+            <a href="imperial_large_files/05-HausImperial-1200.jpg" title="imperial_large_files/imperial_shower_1.jpg"><img src="imperial_large_files/05-HausImperial-800.jpg" alt="" style="border: none; height: 151px; width: 100px; " /></a>
+          </div>
+          
+          <div style="height: 150px; width: 100px;  height: 150px; left: 654px; position: absolute; top: 557px; width: 100px; z-index: 1; " class="tinyText style_SkipStroke_3 stroke_1">
+            <a href="imperial_large_files/06-HausImperial-1200.jpg" title="imperial_large_files/imperial_bed2_1.jpg"><img src="imperial_large_files/06-HausImperial-800.jpg" alt="" style="border: none; height: 151px; width: 100px; " /></a>
+          </div>
+          
+          <div style="height: 150px; width: 100px;  height: 150px; left: 763px; position: absolute; top: 557px; width: 100px; z-index: 1; " class="tinyText stroke_6">
+            <div style="position: relative; width: 100px; ">
+              <a href="imperial_large_files/07-HausImperial-1200.jpg" title="imperial_large_files/imperial_bed1.jpg"><img src="imperial_large_files/07-HausImperial-800.jpg" alt="" style="height: 150px; left: 0px; position: absolute; top: 0px; width: 100px; " /></a>
+            </div>
+          </div>
+
+          <div style="height: 286px; width: 430px;  height: 286px; left: 435px; position: absolute; top: 721px; width: 430px; z-index: 1; " class="tinyText style_SkipStroke_3 stroke_2">
+            <a href="imperial_large_files/08-HausImperial-1200.jpg" title="imperial_large_files/imperial_kitchen_1.jpg"><img src="imperial_large_files/08-HausImperial-800.jpg" alt="" style="border: none; height: 287px; width: 430px; " /></a>
+          </div>
+          
+

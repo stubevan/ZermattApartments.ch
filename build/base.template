@@ -12,7 +12,7 @@
     <title>ZermattApartments.ch</title>
 
 	<link rel="stylesheet" type="text/css" media="screen,print" href="home_files/home.css" />
-<link rel="stylesheet" type="text/css" media="screen,print" href="map_files/map.css" />
+!!!!CSS!!!!
     <style type="text/css">
 </style>
 	<!-- Matomo -->
@@ -73,25 +73,22 @@
           <div id="id3" style="height: 39px; left: 32px; position: absolute; top: 90px; width: 831px; z-index: 1; " class="style_SkipStroke_1 shape-with-text">
             <div class="text-content graphic_textbox_layout_style_default_External_831_39" style="padding: 0px; ">
               <div class="graphic_textbox_layout_style_default">
-                <p style="padding-bottom: 0pt; padding-top: 0pt; " class="paragraph_style_home_1">Emplacement parfait, élégance simple, panorama majestueux</p>
+                <p style="padding-bottom: 0pt; padding-top: 0pt; " class="paragraph_style_home_1">!!!!HEADER_TEXT!!!!</p>
               </div>
             </div>
           </div>
         </div>
         <div style="margin-left: 0px; position: relative; width: 900px; z-index: 5; " id="body_layer">
 
-
+!!!!TITLE!!!!
 
 			<div>
-
-          <div style="height: 338px; width: 752px;  height: 338px; left: 80px; position: absolute; top: 20px; width: 752px; z-index: 1; " class="tinyText style_SkipStroke_2 stroke_0">
-            <a href="map_files/zermattmap_med.png" title="map_files/zermattmap_med.png"><img src="map_files/zermattmap_sml.jpg" alt="" style="border: none; height: 339px; width: 752px; " /></a>
-          </div>
+!!!!CONTENT!!!!
 			</div>
 
- 
+!!!!AVAILABILITY!!!!
 
-          <div id="id9" style="height: 27px; left: 32px; position: absolute; top: 380px; width: 254px; z-index: 1; " class="style_SkipStroke_1 shape-with-text">
+          <div id="id9" style="height: 27px; left: 32px; position: absolute; top: !!!!BASE_POSITION!!!!; width: 254px; z-index: 1; " class="style_SkipStroke_1 shape-with-text">
             <div class="text-content graphic_textbox_layout_style_default_External_254_27" style="padding: 0px; ">
               <div class="graphic_textbox_layout_style_default">
                 <p style="padding-bottom: 0pt; padding-top: 0pt; " class="paragraph_style_home_5"><a class="class_home_5" href="gornerwald.html" title="gornerwald.html">Haus Gornerwald 3½ Rooms</a> </p>
@@ -99,7 +96,7 @@
             </div>
           </div>
           
-          <div id="id9" style="height: 27px; left: 378px; position: absolute; top: 380px; width: 235px; z-index: 1; " class="style_SkipStroke_1 shape-with-text">
+          <div id="id9" style="height: 27px; left: 378px; position: absolute; top: !!!!BASE_POSITION!!!!; width: 235px; z-index: 1; " class="style_SkipStroke_1 shape-with-text">
             <div class="text-content graphic_textbox_layout_style_default_External_235_27" style="padding: 0px; ">
               <div class="graphic_textbox_layout_style_default">
                 <p style="padding-bottom: 0pt; padding-top: 0pt; " class="paragraph_style_home_5"><a class="class_home_5" href="imperial_large.html" title="imperial_large.html">Haus Imperial 3½ Rooms</a>   </p>
@@ -108,7 +105,7 @@
           </div>
           
 
-          <div id="id10" style="height: 27px; left: 684px; position: absolute; top: 380px; width: 178px; z-index: 1; " class="style_SkipStroke_1 shape-with-text">
+          <div id="id10" style="height: 27px; left: 684px; position: absolute; top: !!!!BASE_POSITION!!!!; width: 178px; z-index: 1; " class="style_SkipStroke_1 shape-with-text">
             <div class="text-content graphic_textbox_layout_style_default_External_178_27" style="padding: 0px; ">
               <div class="graphic_textbox_layout_style_default">
                 <p style="padding-bottom: 0pt; padding-top: 0pt; " class="paragraph_style_home_5"><a class="class_home_6" href="imperial_small.html" title="imperial_small.html">Haus Imperial Studio</a></p>
@@ -126,7 +123,7 @@
           
 
 
-        <div style="height: 450px; line-height: !!!!BOX_HEIGHT!!!!; " class="spacer"> </div>
+        <div style="height: !!!!BOX_HEIGHT!!!!; line-height: !!!!BOX_HEIGHT!!!!; " class="spacer"> </div>
         </div>
         <div style="height: 0px; line-height: 0px; margin-left: 0px; position: relative; width: 900px; z-index: 15; " id="footer_layer">
           <div style="height: 0px; line-height: 0px; " class="bumper"> </div>

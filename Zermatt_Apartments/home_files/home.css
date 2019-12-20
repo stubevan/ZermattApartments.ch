@@ -66,7 +66,41 @@
     background: rgb(255, 255, 255);
     opacity: 1.00;
 }
-.paragraph_style_4 {
+a.class_home_99 {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+a.class_home_99:visited {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+a.class_home_99:hover {
+    color: rgb(123, 13, 0);
+    text-decoration: none;
+}
+.paragraph_style_home_99 {
+    color: rgb(255, 255, 255);
+    font-family: 'ArialMT', 'Arial', sans-serif;
+    font-size: 16px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 21px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.paragraph_style_home_4 {
     color: rgb(88, 77, 77);
     font-family: 'Arial-ItalicMT', 'Arial', sans-serif;
     font-size: 12px;
@@ -104,7 +138,7 @@
     background: transparent;
     opacity: 1.00;
 }
-.paragraph_style_5 {
+.paragraph_style_home_5 {
     color: rgb(88, 77, 77);
     font-family: 'Georgia-BoldItalic', 'Georgia', serif;
     font-size: 15px;
@@ -162,7 +196,7 @@
 .style {
     padding: 4px;
 }
-.paragraph_style_1 {
+.paragraph_style_home_1 {
     color: rgb(0, 0, 0);
     font-family: 'Georgia-Italic', 'Georgia', serif;
     font-size: 13px;
@@ -184,7 +218,7 @@
     text-indent: 0px;
     text-transform: none;
 }
-.paragraph_style_2 {
+.paragraph_style_home_2 {
     color: rgb(0, 0, 0);
     font-family: 'Georgia-BoldItalic', 'Georgia', serif;
     font-size: 15px;
@@ -206,7 +240,7 @@
     text-indent: 0px;
     text-transform: none;
 }
-.paragraph_style {
+.paragraph_style_home {
     color: rgb(123, 13, 0);
     font-family: 'Palatino-Roman', 'Palatino', serif;
     font-size: 36px;
@@ -228,7 +262,7 @@
     text-indent: 0px;
     text-transform: none;
 }
-.paragraph_style_3 {
+.paragraph_style_home_3 {
     color: rgb(88, 77, 77);
     font-family: 'ArialMT', 'Arial', sans-serif;
     font-size: 12px;
@@ -262,75 +296,75 @@ a:visited {
     color: rgb(121, 121, 121);
     text-decoration: underline;
 }
-a.class1 {
+a.class_home_1 {
     color: rgb(66, 66, 66);
     text-decoration: none;
 }
-a.class1:visited {
+a.class_home_1:visited {
     color: rgb(66, 66, 66);
     text-decoration: none;
 }
-a.class1:hover {
+a.class_home_1:hover {
     color: rgb(112, 29, 0);
     text-decoration: none;
 }
-a.class2 {
+a.class_home_2 {
     color: rgb(66, 66, 66);
     text-decoration: none;
 }
-a.class2:visited {
+a.class_home_2:visited {
     color: rgb(66, 66, 66);
     text-decoration: none;
 }
-a.class2:hover {
+a.class_home_2:hover {
     color: rgb(123, 13, 0);
     text-decoration: none;
 }
-a.class3 {
+a.class_home_3 {
     color: rgb(66, 66, 66);
     text-decoration: none;
 }
-a.class3:visited {
+a.class_home_3:visited {
     color: rgb(66, 66, 66);
     text-decoration: none;
 }
-a.class3:hover {
+a.class_home_3:hover {
     color: rgb(121, 30, 0);
     text-decoration: none;
 }
-a.class4 {
+a.class_home_4 {
     color: rgb(66, 66, 66);
     text-decoration: none;
 }
-a.class4:visited {
+a.class_home_4:visited {
     color: rgb(66, 66, 66);
     text-decoration: none;
 }
-a.class4:hover {
+a.class_home_4:hover {
     color: rgb(123, 13, 0);
     text-decoration: none;
 }
-a.class5 {
+a.class_home_5 {
     color: rgb(66, 66, 66);
     text-decoration: none;
 }
-a.class5:visited {
+a.class_home_5:visited {
     color: rgb(66, 66, 66);
     text-decoration: none;
 }
-a.class5:hover {
+a.class_home_5:hover {
     color: rgb(123, 13, 0);
     text-decoration: none;
 }
-a.class6 {
+a.class_home_6 {
     color: rgb(66, 66, 66);
     text-decoration: none;
 }
-a.class6:visited {
+a.class_home_6:visited {
     color: rgb(66, 66, 66);
     text-decoration: none;
 }
-a.class6:hover {
+a.class_home_6:hover {
     color: rgb(123, 13, 0);
     text-decoration: none;
 }
