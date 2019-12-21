@@ -23,7 +23,7 @@ IFS=$'\n'
 SOURCE_FILE="$1"
 TARGET=$(basename ${SOURCE_FILE} | awk -F. '{print $1}' )
 BASE_TARGET=$(basename ${SOURCE_FILE} | awk -F. '{print $1}' | sed 's/_availability//' | sed 's/_review//' )
-TARGET_FILE=$(dirname ${SOURCE_FILE})/../Zermatt_Apartments/${TARGET}.html
+TARGET_FILE=$(dirname ${SOURCE_FILE})/../site/${TARGET}.html
 TEMPLATE=$(dirname ${SOURCE_FILE})/base.template
 CONTACT_SPLIT=40
 
