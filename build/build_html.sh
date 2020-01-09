@@ -62,7 +62,7 @@ AVAILABILITY="
 <div id=\"id12\" style=\"height: 27px; left: 200px; position: absolute; top: ${AVAILABILITY_POSITION}px; width: 178px; z-index: 1; \" class=\"style_SkipStroke_1 shape-with-text\">
 	<div class=\"text-content graphic_textbox_layout_style_default_External_178_27\" style=\"padding: 0px; \">
 		<div class=\"graphic_textbox_layout_style_default\">
-			<p style=\"padding-bottom: 0pt; padding-top: 0pt; \" class=\"paragraph_style_home_5\"><a class=\"class_home_5\" href=\"${BASE_TARGET}_availability.html\" \" title=\"Availability \">Availability</a></p>
+			<p style=\"padding-bottom: 0pt; padding-top: 0pt; \" class=\"paragraph_style_home_5\"><a class=\"class_home_5\" href=\"${BASE_TARGET}_availability.html\" \" title=\"Apartment Availability \">Availability</a></p>
 		</div>
 		</div>
 </div>
@@ -70,14 +70,14 @@ AVAILABILITY="
 <div id=\"id12 \" style=\"height: 27px; left: 639px; position: absolute; top: ${AVAILABILITY_POSITION}px; width: 178px; z-index: 1; \" class=\"style_SkipStroke_1 shape-with-text \">
 	<div class=\"text-content graphic_textbox_layout_style_default_External_178_27 \" style=\"padding: 0px; \">
 		<div class=\"graphic_textbox_layout_style_default \">
-			<p style=\"padding-bottom: 0pt; padding-top: 0pt; \" class=\"paragraph_style_home_5 \"><a class=\"class_home_5 \" href=\"${BASE_TARGET}_review.html \" title=\"imperial_small.html \">Reviews</a></p>
+			<p style=\"padding-bottom: 0pt; padding-top: 0pt; \" class=\"paragraph_style_home_5 \"><a class=\"class_home_5 \" href=\"${BASE_TARGET}_review.html \" title=\"Apartment Reviews\">Reviews</a></p>
 		</div>
 	</div>
 </div>
 <div id=\"id6\" style=\"height: 49px; left: 85px; position: absolute; top: ${CONTACT_POSITION}px; width: 729px; z-index: 1;\" class=\"style_SkipStroke_1 shape-with-text\">
 	<div class=\"text-content graphic_textbox_layout_style_default_External_729_49\" style=\"padding: 0px; \">
 		<div class=\"graphic_textbox_layout_style_default\">
-			<p style=\"padding-bottom: 0pt; padding-top: 0pt; \" class=\"paragraph_style_home_99\">For rates and to reserve please call Ann on <a class=\"class_home_99\" href=\"tel:+41788209730\">+41 (0)78 820 97 30</a> or email <a class=\"class_home_99\" href=\"mailto:ann@zermattapartments.ch?subject=\" title=\"mailto:ann@zermattapartments.ch?subject=\">ann@zermattapartments.ch</a></p>
+			<p style=\"padding-bottom: 0pt; padding-top: 0pt; \" class=\"paragraph_style_home_99\">For rates and to reserve please call Ann on <a class=\"class_home_99\" href=\"tel:+41788209730\">+41 (0)78 820 97 30</a> or email <a class=\"class_home_99\" href=\"mailto:ann@zermattapartments.ch?subject=\" title=\"Mail Ann\">ann@zermattapartments.ch</a></p>
 		</div>
 	</div>
 </div>

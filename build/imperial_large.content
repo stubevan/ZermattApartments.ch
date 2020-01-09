@@ -1,8 +1,8 @@
 !!!!HEADER_TEXT!!!!=Emplacement parfait, élégance simple, panorama majestueux
 !!!!TITLE!!!!=Haus Imperial
-!!!!AVAILABILITY_POSITION!!!!=1050
-!!!!BASE_POSITION!!!!=1145
-!!!!BOX_HEIGHT!!!!=1215
+!!!!AVAILABILITY_POSITION!!!!=1065
+!!!!BASE_POSITION!!!!=1155
+!!!!BOX_HEIGHT!!!!=1220
 
 !!!!CONTENT!!!!
         <div style="margin-left: 0px; position: relative; width: 900px; z-index: 5; " id="body_layer">
@@ -28,37 +28,47 @@
 
 
           <div style="height: 284px; width: 427px;  height: 284px; left: 435px; position: absolute; top: 47px; width: 427px; z-index: 1; " class="tinyText style_SkipStroke_3 stroke_3">
-            <a href="imperial_large_files/01-HausImperial-1200.jpg" title="imperial_large_files/imperial_living_1.jpg"><img src="imperial_large_files/01-HausImperial-800.jpg" alt="" style="border: none; height: 285px; width: 427px; " /></a>
+            <a href="imperial_large_files/01-HausImperial-1200.jpg" title="Haus Imperial - Matterhorn View"><img src="imperial_large_files/01-HausImperial-800.jpg" alt="" style="border: none; height: 285px; width: 427px; " /></a>
           </div>
 
           <div style="height: 196px; width: 281px;  height: 196px; left: 435px; position: absolute; top: 346px; width: 281px; z-index: 1; " class="tinyText style_SkipStroke_4 stroke_7">
-            <a href="imperial_large_files/02-HausImperial-1200.jpg" title="imperial_large_files/imperial-large.png"><img src="imperial_large_files/02-HausImperial-800.jpg" alt="" style="border: none; height: 197px; width: 281px; " /></a>
+            <a href="imperial_large_files/02-HausImperial-1200.jpg" title="Haus Imperial - Floor Plan"><img src="imperial_large_files/02-HausImperial-800.jpg" alt="" style="border: none; height: 197px; width: 281px; " /></a>
           </div>
 
           <div style="height: 197px; width: 131px;  height: 197px; left: 731px; position: absolute; top: 345px; width: 131px; z-index: 1; " class="tinyText style_SkipStroke_3 stroke_4">
-            <a href="imperial_large_files/03-HausImperial-1200.jpg" title="imperial_large_files/imperial_matterhorn_1.jpg"><img src="imperial_large_files/03-HausImperial-800.jpg" alt="" style="border: none; height: 197px; width: 132px; " /></a>
+            <a href="imperial_large_files/03-HausImperial-1200.jpg" title="Haus Imperial - Matterhorn View 2"><img src="imperial_large_files/03-HausImperial-800.jpg" alt="" style="border: none; height: 197px; width: 132px; " /></a>
           </div>
           
           <div style="height: 150px; width: 100px;  height: 150px; left: 435px; position: absolute; top: 557px; width: 100px; z-index: 1; " class="tinyText style_SkipStroke_3 stroke_0">
-            <a href="imperial_large_files/04-HausImperial-1200.jpg" title="imperial_large_files/imperial_bath_1.jpg"><img src="imperial_large_files/04-HausImperial-800.jpg" alt="" style="border: none; height: 151px; width: 100px; " /></a>
+            <a href="imperial_large_files/04-HausImperial-1200.jpg" title="Haus Imperial - Bathroom 1"><img src="imperial_large_files/04-HausImperial-800.jpg" alt="" style="border: none; height: 151px; width: 100px; " /></a>
           </div>
           
           <div style="height: 150px; width: 100px;  height: 150px; left: 545px; position: absolute; top: 556px; width: 100px; z-index: 1; " class="tinyText style_SkipStroke_3 stroke_5">
-            <a href="imperial_large_files/05-HausImperial-1200.jpg" title="imperial_large_files/imperial_shower_1.jpg"><img src="imperial_large_files/05-HausImperial-800.jpg" alt="" style="border: none; height: 151px; width: 100px; " /></a>
+            <a href="imperial_large_files/05-HausImperial-1200.jpg" title="Haus Imperial - Bathroom 2"><img src="imperial_large_files/05-HausImperial-800.jpg" alt="" style="border: none; height: 151px; width: 100px; " /></a>
           </div>
           
-          <div style="height: 150px; width: 100px;  height: 150px; left: 654px; position: absolute; top: 557px; width: 100px; z-index: 1; " class="tinyText style_SkipStroke_3 stroke_1">
-            <a href="imperial_large_files/06-HausImperial-1200.jpg" title="imperial_large_files/imperial_bed2_1.jpg"><img src="imperial_large_files/06-HausImperial-800.jpg" alt="" style="border: none; height: 151px; width: 100px; " /></a>
+          <div style="height: 150px; width: 208px;  height: 150px; left: 654px; position: absolute; top: 556px; width: 208px; z-index: 1; " class="tinyText style_SkipStroke_3 stroke_1">
+            <a href="imperial_large_files/06-HausImperial-1200.jpg" title="Haus Imperial - Bedroom 1"><img src="imperial_large_files/06-HausImperial-800.jpg" alt="" style="border: none; height: 151px; width: 208px; " /></a>
           </div>
           
-          <div style="height: 150px; width: 100px;  height: 150px; left: 763px; position: absolute; top: 557px; width: 100px; z-index: 1; " class="tinyText stroke_6">
+          <div style="height: 150px; width: 208px;  height: 150px; left: 435px; position: absolute; top: 721px; width: 208px; z-index: 1; " class="tinyText stroke_6">
             <div style="position: relative; width: 100px; ">
-              <a href="imperial_large_files/07-HausImperial-1200.jpg" title="imperial_large_files/imperial_bed1.jpg"><img src="imperial_large_files/07-HausImperial-800.jpg" alt="" style="height: 150px; left: 0px; position: absolute; top: 0px; width: 100px; " /></a>
+              <a href="imperial_large_files/07-HausImperial-1200.jpg" title="Haus Imperial - Bedroom 2"><img src="imperial_large_files/07-HausImperial-800.jpg" alt="" style="height: 150px; left: 0px; position: absolute; top: 0px; width: 208px; " /></a>
             </div>
           </div>
 
-          <div style="height: 286px; width: 430px;  height: 286px; left: 435px; position: absolute; top: 721px; width: 430px; z-index: 1; " class="tinyText style_SkipStroke_3 stroke_2">
-            <a href="imperial_large_files/08-HausImperial-1200.jpg" title="imperial_large_files/imperial_kitchen_1.jpg"><img src="imperial_large_files/08-HausImperial-800.jpg" alt="" style="border: none; height: 287px; width: 430px; " /></a>
+          <div style="height: 150px; width: 100px;  height: 150px; left: 763px; position: absolute; top: 721px; width: 100px; z-index: 1; " class="tinyText style_SkipStroke_3 stroke_0">
+            <a href="imperial_large_files/08-HausImperial-1200.jpg" title="Haus Imperial - Living Room 1"><img src="imperial_large_files/08-HausImperial-800.jpg" alt="" style="border: none; height: 151px; width: 100px; " /></a>
           </div>
           
-
+          <div style="height: 150px; width: 100px;  height: 150px; left: 435px; position: absolute; top: 886px; width: 100px; z-index: 1; " class="tinyText style_SkipStroke_3 stroke_5">
+            <a href="imperial_large_files/09-HausImperial-1200.jpg" title="Haus Imperial - Living Room 2"><img src="imperial_large_files/09-HausImperial-800.jpg" alt="" style="border: none; height: 151px; width: 100px; " /></a>
+          </div>
+          
+          <div style="height: 150px; width: 100px;  height: 150px; left: 545px; position: absolute; top: 886px; width: 100px; z-index: 1; " class="tinyText style_SkipStroke_3 stroke_1">
+            <a href="imperial_large_files/10-HausImperial-1200.jpg" title="Haus Imperial - Living Room 3"><img src="imperial_large_files/10-HausImperial-800.jpg" alt="" style="border: none; height: 151px; width: 100px; " /></a>
+          </div>
+          
+          <div style="height: 150px; width: 208px;  height: 150px; left: 654px; position: absolute; top: 886px; width: 208px; z-index: 1; " class="tinyText style_SkipStroke_3 stroke_1">
+              <a href="imperial_large_files/11-HausImperial-1200.jpg" title="Haus Imperial - Kitchen"><img src="imperial_large_files/11-HausImperial-800.jpg" alt="" style="height: 150px; left: 0px; position: absolute; top: 0px; width: 208px; " /></a>
+            </div>

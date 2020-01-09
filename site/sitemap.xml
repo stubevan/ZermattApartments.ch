@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+<url>
+  <loc>https://zermattapartments.ch/</loc>
+  <lastmod>2019-12-21T14:29:51+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://zermattapartments.ch/home.html</loc>
+  <lastmod>2019-12-21T14:29:51+00:00</lastmod>
+  <priority>0.90</priority>
+</url>
+<url>
+  <loc>https://zermattapartments.ch/map.html</loc>
+  <lastmod>2019-12-21T14:29:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://zermattapartments.ch/contact.html</loc>
+  <lastmod>2019-12-21T14:29:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://zermattapartments.ch/gornerwald.html</loc>
+  <lastmod>2019-12-21T14:29:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://zermattapartments.ch/imperial_large.html</loc>
+  <lastmod>2019-12-21T14:29:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://zermattapartments.ch/imperial_small.html</loc>
+  <lastmod>2019-12-21T14:29:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://zermattapartments.ch/gornerwald_availability.html</loc>
+  <lastmod>2019-12-21T14:29:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://zermattapartments.ch/gornerwald_review.html</loc>
+  <lastmod>2019-12-21T14:29:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://zermattapartments.ch/imperial_large_availability.html</loc>
+  <lastmod>2019-12-21T14:29:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://zermattapartments.ch/imperial_large_review.html</loc>
+  <lastmod>2019-12-21T14:29:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://zermattapartments.ch/imperial_small_availability.html</loc>
+  <lastmod>2019-12-21T14:29:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://zermattapartments.ch/imperial_small_review.html</loc>
+  <lastmod>2019-12-21T14:29:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+</urlset>
