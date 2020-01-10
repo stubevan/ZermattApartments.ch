@@ -1,27 +1,27 @@
-!!!!HEADER_TEXT!!!!=Emplacement parfait, élégance simple, panorama majestueux
-!!!!BASE_POSITION!!!!=480
-!!!!BOX_HEIGHT!!!!=540
+!!!!HEADER_TEXT!!!!=Perfekte Lage, einfache Eleganz, inspirierende Aussicht
+!!!!BASE_POSITION!!!!=520
+!!!!BOX_HEIGHT!!!!=580
 
 !!!!CONTENT!!!!
-          <div style="height: 338px; width: 752px;  height: 338px; left: 80px; position: absolute; top: 20px; width: 752px; z-index: 1; " class="tinyText style_SkipStroke_2 stroke_0">
+          <div style="height: 338px; width: 752px;  height: 338px; left: 75px; position: absolute; top: 20px; width: 752px; z-index: 1; " class="tinyText style_SkipStroke_2 stroke_0">
             <a href="map_files/zermattmap_med.png" title="Map Of Zermatt">
 				<img src="map_files/zermattmap_sml.jpg" style="border: none; height: 339px; width: 752px; " usemap="#zermatt" />
 				<map name="#zermatt">
-					<area shape="circle" coords="207, 237, 100" href="imperial_map.html" alt="Goggle Map For Haus Imperial">
+					<area shape="circle" coords="207, 237, 100" href="imperial_large_map.html" alt="Goggle Map For Haus Imperial">
 					<area shape="circle" coords="520, 190, 100" href="gornerwald_map.html" alt="Goggle Map For Haus Gornerwald">
 				</map>
 			</a>
           </div>
 
-          <div id="id10" style="height: 27px; left: 120px; position: absolute; top: 380px; width: 600; z-index: 1; " class="style_SkipStroke_1 shape-with-text">
-              <div class="paragraph_style_home_5">
-                <p>Haus Gornerwald: 63 Schluhmattstrasse, 3920 Zermatt - Click <a style="text-decoration:none;" href="gornerwald_map.html">here</a> for a Google Map</p>
-            </div>
+          <div id="id10" style="height: 27px; left: 108px; position: absolute; top: 380px; width: 600; z-index: 1; " class="paragraph_style_home_5">
+                <p><center>For a Google map showing the apartment location click on one of the stars on the map<br> or the address below</center><p>
           </div>
           
-          <div id="id10" style="height: 27px; left: 127px; position: absolute; top: 420px; width: 600; z-index: 1; " class="style_SkipStroke_1 shape-with-text">
-              <div class="paragraph_style_home_5">
-                <p>Haus Imperial: 22 Unterer Mattenweg, 3920 Zermatt - Click <a style="text-decoration:none;" href="imperial_map.html">here</a> for a Google Map</p>
-            </div>
+          <div id="id10" style="height: 27px; left: 230px; position: absolute; top: 430px; width: 600; z-index: 1; " class="paragraph_style_home_5">
+                <p><a style="text-decoration:none;" href="gornerwald_map.html">Haus Gornerwald: 63 Schluhmattstrasse, 3920 Zermatt</a></p>
+          </div>
+          
+          <div id="id10" style="height: 27px; left: 238px; position: absolute; top: 460px; width: 600; z-index: 1; " class="paragraph_style_home_5">
+                <p><a style="text-decoration:none;" href="imperial_large_map.html">Haus Imperial: 22 Unterer Mattenweg, 3920 Zermatt</a></p>
           </div>
           
