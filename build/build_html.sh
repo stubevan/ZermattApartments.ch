@@ -22,7 +22,7 @@ set -o nounset                              # Treat unset variables as an error
 IFS=$'\n'
 SOURCE_FILE="$1"
 TARGET=$(basename ${SOURCE_FILE} | awk -F. '{print $1}' )
-BASE_TARGET=$(basename ${SOURCE_FILE} | awk -F. '{print $1}' | sed 's/_availability//' | sed 's/_review//' )
+BASE_TARGET=$(basename ${SOURCE_FILE} | awk -F. '{print $1}' | sed 's/_availability//' | sed 's/_review//' | sed 's/_map//' )
 TARGET_FILE=$(dirname ${SOURCE_FILE})/../site/${TARGET}.html
 TEMPLATE=$(dirname ${SOURCE_FILE})/base.template
 CONTACT_SPLIT=40
