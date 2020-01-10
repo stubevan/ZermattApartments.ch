@@ -12,6 +12,7 @@
     <title>ZermattApartments.ch</title>
 
 	<link rel="stylesheet" type="text/css" media="screen,print" href="home_files/home.css" />
+	<link href="home_files/lightbox.min.css" rel="stylesheet" />
 !!!!CSS!!!!
     <style type="text/css">
 </style>
@@ -52,7 +53,7 @@
             <div class="text-content style_External_390_86" style="padding: 0px; ">
               <div class="style">
                 <a style="text-decoration:none;" href="home.html">
-					<p style="padding-top: 0pt; " class="paragraph_style_home">ZermattApartments.ch - 20200109<br></p></a>
+					<p style="padding-top: 0pt; " class="paragraph_style_home">ZermattApartments.ch - 20200110<br></p></a>
                 <p class="paragraph_style_home_1"><br></p>
               </div>
             </div>
@@ -129,7 +130,18 @@
           <div style="height: 0px; line-height: 0px; " class="bumper"> </div>
         </div>
       </div>
-    </div>
+  </div>
+  <script src="home_files/lightbox-plus-jquery.min.js"></script>
+  <script>
+		lightbox.option({
+		  'disableScrolling': true,
+		  'alwaysShowNavOnTouchDevices': true,
+		  'wrapAround': true
+		})
+</script>
+
+
+  </script>
   </body>
 </html>
 
