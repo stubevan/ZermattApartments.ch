@@ -5,69 +5,83 @@
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
 <url>
   <loc>https://zermattapartments.ch/</loc>
-  <lastmod>2019-12-21T14:29:51+00:00</lastmod>
+  <lastmod>2020-01-11T12:23:25+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://zermattapartments.ch/home.html</loc>
-  <lastmod>2019-12-21T14:29:51+00:00</lastmod>
-  <priority>0.90</priority>
+  <loc>https://zermattapartments.ch/Zermatt_Apartments/home.html</loc>
+  <lastmod>2020-01-11T12:16:09+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://zermattapartments.ch/map.html</loc>
-  <lastmod>2019-12-21T14:29:51+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://zermattapartments.ch/contact.html</loc>
-  <lastmod>2019-12-21T14:29:51+00:00</lastmod>
+  <loc>https://zermattapartments.ch/Zermatt_Apartments/map.html</loc>
+  <lastmod>2020-01-11T12:16:10+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://zermattapartments.ch/gornerwald.html</loc>
-  <lastmod>2019-12-21T14:29:51+00:00</lastmod>
+  <loc>https://zermattapartments.ch/Zermatt_Apartments/contact.html</loc>
+  <lastmod>2020-01-11T12:16:08+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://zermattapartments.ch/imperial_large.html</loc>
-  <lastmod>2019-12-21T14:29:51+00:00</lastmod>
+  <loc>https://zermattapartments.ch/Zermatt_Apartments/gornerwald.html</loc>
+  <lastmod>2020-01-11T12:16:09+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://zermattapartments.ch/imperial_small.html</loc>
-  <lastmod>2019-12-21T14:29:51+00:00</lastmod>
+  <loc>https://zermattapartments.ch/Zermatt_Apartments/imperial_large.html</loc>
+  <lastmod>2020-01-11T12:16:10+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://zermattapartments.ch/gornerwald_availability.html</loc>
-  <lastmod>2019-12-21T14:29:51+00:00</lastmod>
+  <loc>https://zermattapartments.ch/Zermatt_Apartments/imperial_small.html</loc>
+  <lastmod>2020-01-11T12:16:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://zermattapartments.ch/Zermatt_Apartments/imperial_large_map.html</loc>
+  <lastmod>2020-01-11T12:16:09+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://zermattapartments.ch/gornerwald_review.html</loc>
-  <lastmod>2019-12-21T14:29:51+00:00</lastmod>
+  <loc>https://zermattapartments.ch/Zermatt_Apartments/gornerwald_map.html</loc>
+  <lastmod>2020-01-11T12:16:09+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://zermattapartments.ch/imperial_large_availability.html</loc>
-  <lastmod>2019-12-21T14:29:51+00:00</lastmod>
+  <loc>https://zermattapartments.ch/Zermatt_Apartments/gornerwald_availability.html</loc>
+  <lastmod>2020-01-11T12:16:08+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://zermattapartments.ch/imperial_large_review.html</loc>
-  <lastmod>2019-12-21T14:29:51+00:00</lastmod>
+  <loc>https://zermattapartments.ch/Zermatt_Apartments/gornerwald_review.html</loc>
+  <lastmod>2020-01-11T12:16:09+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://zermattapartments.ch/imperial_small_availability.html</loc>
-  <lastmod>2019-12-21T14:29:51+00:00</lastmod>
+  <loc>https://zermattapartments.ch/Zermatt_Apartments/imperial_large_availability.html</loc>
+  <lastmod>2020-01-11T12:16:09+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://zermattapartments.ch/imperial_small_review.html</loc>
-  <lastmod>2019-12-21T14:29:51+00:00</lastmod>
+  <loc>https://zermattapartments.ch/Zermatt_Apartments/imperial_large_review.html</loc>
+  <lastmod>2020-01-11T12:16:10+00:00</lastmod>
   <priority>0.51</priority>
 </url>
+<url>
+  <loc>https://zermattapartments.ch/Zermatt_Apartments/imperial_small_availability.html</loc>
+  <lastmod>2020-01-11T12:16:10+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://zermattapartments.ch/Zermatt_Apartments/imperial_small_review.html</loc>
+  <lastmod>2020-01-11T12:16:10+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+
+
 </urlset>
