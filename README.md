@@ -1,4 +1,4 @@
-Website Builder for zermattapartments.ch
+Website Builder for https://zermattapartments.ch
 
 This static site was originally created using iWeb and stood unchanged for
 some time.  Changes were needed but the brief was to keep the site as is.
