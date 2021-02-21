@@ -93,3 +93,12 @@ cat ${TEMPLATE} | sed "s/!!!!HEADER_TEXT!!!!/${HEADER_TEXT}/" \
 	| awk '{if ($0 == "!!!!AVAILABILITY!!!!") print change_string; else print $0}' change_string="${AVAILABILITY}" \
 	| awk '{if ($0 == "!!!!TITLE!!!!") print change_string; else print $0}' change_string="${TITLE_CODE}" \
 	| awk '{if ($0 == "!!!!CONTENT!!!!") print change_string; else print $0}' change_string="${CONTENT}" > ${TARGET_FILE}
+
+# If it's a review then iterate through the content
+if [[ $(echo $SOURCE_FILE | grep -c review) == 1 ]]; then
+	TMP_FILE=$$.tmp
+	cat ${TARGET_FILE} \
+		| sed "s/^REVIEW_TITLE-\(.*\)$/\<p style=\"padding-bottom: 0pt; padding-top: 0pt; \" class=\"Body\"\>\<strong\>\1\<br \/\>\<\/strong\>\<\/p\>/" \
+		| sed "s/^REVIEW_CONTENT-\(.*\)$/\<p style=\"padding-bottom: 0pt; padding-top: 0pt; \" class=\"Body\"\>\1\<br \/\>\\<br\><\/p\>/" > ${TMP_FILE}
+	mv ${TMP_FILE} ${TARGET_FILE}
+fi

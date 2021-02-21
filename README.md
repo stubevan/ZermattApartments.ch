@@ -21,6 +21,7 @@ Pages changes should made as follows:
 * to create the associated html run the script *build_html.sh* with the associated content file as a parameter
 * the html file is created in the /site directory
 * the content file also contains positional information - hopefully self explanotory.  All elements are placed absolutely so any changes need to bear this in mind
+* Reviews:  content file has a line starting REVIEW_HEADER- and one starting REVIEW_CONTENT-.  Put text here andthe script takes care of the html.   Position values for the base still need to be worked out manually
 
 ## Outstanding Work - also outlined in issues:
 * each page has its own CSS directory which means that there is duplication.  Also not all of the naming is consistent.  SO a change made on one page may not look the same on another.  This required some renaming during the work to keep things simple
