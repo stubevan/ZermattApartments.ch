@@ -41,7 +41,9 @@ Peut-être plus important encore, ils possèdent tous un balcon orienté au sud 
           </div>
           
           <div style="height: 94px; width: 122px;  height: 94px; left: 48px; position: absolute; top: 585px; width: 122px; z-index: 1; " class="tinyText style_SkipStroke_3 stroke_0">
-            <a href="https://www.tripadvisor.com/" title="Trip Advisor Badge Of Excellence"><img src="home_files/TripAdvisorBOE.png" alt="" style="border: none; height: 94px; width: 122px; " /></a>
+             <a target="_blank" style="text-decoration:none !important; color:#2c2c2c" href="https://www.tripadvisor.co.uk/VacationRentalReview-g188098-d8547371">
+        <img src="https://rentals.tripadvisor.com/images/coe/TCA-2020-en-GB.svg" style="height:100px;width:150px;" alt="Tripadvisor" class="false" id="false"/>
+    </a>
           </div>
           
           <div style="height: 94px; width: 122px;  height: 94px; left: 735px; position: absolute; top: 595px; width: 122px; z-index: 1; " class="tinyText style_SkipStroke_3 stroke_0">
